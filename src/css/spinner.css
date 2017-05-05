@@ -1,0 +1,7 @@
+
+.spinnerFetching {
+  top: 50%;
+  width: auto;
+  display: flex;
+  justify-content: center;
+}

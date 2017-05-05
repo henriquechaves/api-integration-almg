@@ -1,0 +1,10 @@
+.footer{
+  color: #FFF;
+  background-color: #b20000;
+  opacity: 0.8;
+}
+
+.dateFooter{
+  font-style: italic;
+  padding-top: 5px;
+}

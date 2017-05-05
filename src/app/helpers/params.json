@@ -1,0 +1,3 @@
+{
+  "params": {"cod": "Código do contrato", "ano": "Ano do contrato", "tipo": "Contrato", "forn": "Fornecedor", "dota": "Dotação orçamentária", "obj": "Objeto do Contrato", "numLic": "Número do processo licitatório", "anoLic": "Ano do processo licitatório", "modal": "Modalidade do contrato", "numModalCto": "Numero da modalidade de contrato", "anoModalCto": "Ano da modalidade de contrato"}
+}
